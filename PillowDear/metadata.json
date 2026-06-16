@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "PCBoyGames"
+            }
+        ],
+        "Description": "PillowDear Splash Screen",
+        "Id": "PillowDear",
+        "Name": "PillowDear",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": ""
+    }
+}
